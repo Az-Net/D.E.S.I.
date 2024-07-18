@@ -20,7 +20,7 @@ Clone this repository to your system.
 
 The script is intended to be used with an addition bash script that implements an emergent system. To use D.E.S.I., provide the path to the second script as the argument:
 ```
-suda bash /*/DESI.sh /*/target_script.sh
+sudo bash /*/DESI.sh /*/target_script.sh
 ```
 
 ## Evaluation:
