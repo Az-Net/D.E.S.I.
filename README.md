@@ -18,7 +18,7 @@ The provided script is a comprehensive debugging tool designed to assist in moni
 
 The script is intended to be used with a script that implements an emergent system. To use D.E.S.I., provide the path to the script as the first argument:
 ```
-./DESI.sh ./target_script.sh
+suda bash /*/DESI.sh /*/target_script.sh
 ```
 
 ## Evaluation:
