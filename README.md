@@ -25,11 +25,11 @@ sudo bash /*/DESI.sh /*/target_script.sh
 
 ## Evaluation:
 
-* Effectiveness: D.E.S.I. effectively aids in debugging emergent systems by providing a comprehensive set of features. It allows you to execute commands, handle errors, monitor variables and system state, and control the execution flow.
+* Effectiveness: D.E.S.I. aims to effectively aids in debugging emergent systems by providing a comprehensive set of features. It will allow you to execute commands, handle errors, monitor variables and system state, and control the execution flow.
 
-* Ease of Use: The script is straightforward to use. It presents a clear interface with user prompts and options. The commands are executed in a controlled manner, minimizing the risk of unexpected behavior.
+* Ease of Use: The script is intended to be straightforward to use. It presents a clear interface with user prompts and options. The commands are to be executed in a controlled manner, minimizing the risk of unexpected behavior.
 
-* Efficiency: D.E.S.I. operates efficiently, with minimal overhead. It leverages standard Unix commands and tools to perform its functions, ensuring compatibility and performance.
+* Efficiency: D.E.S.I. is expected to operate efficiently, with minimal overhead. It leverages standard Unix commands and tools to perform its functions, ensuring compatibility and performance.
 
 ## Validation (To-Do):
 
@@ -37,11 +37,11 @@ To validate the script, several tests are to be conducted using a custom emergen
 
 * Command Execution: Commands were executed successfully, and any errors were captured and logged as expected.
 
-* Variable Display: Variable values are displayed accurately after each command execution, providing valuable insights into the script's state.
+* Variable Display: Variable values are displayed accurately after each command execution, providing insights into the script's state.
 
 * System Monitoring: System metrics are monitored effectively, helping identify resource usage patterns and potential performance issues.
 
-* Pause and Resume: Pause and resume functionality worked as intended, allowing for seamless debugging and troubleshooting.
+* Pause and Resume: Pause and resume functionality worked as intended, allowing for debugging and troubleshooting.
 
 # Conclusion:
 
